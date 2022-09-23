@@ -15,7 +15,7 @@ In this project i have created a Dance Home Page. And i have learnt a lot of thi
 
 ### My Project is looking like :
 
-![Web Site Image](./screenshot/dance-home-page-new.png)
+![Web Site Image](./screenshot/dance-home-page.png)
 
 ## Time taken to finish this project
 
